@@ -1,2 +1,2 @@
-# Snake
-Snake game using turtle graphics in python
+# PING PONG
+Ping pong game using turtle graphics in python
